@@ -10,6 +10,10 @@ namespace myFirstGit
     {
         static void Main(string[] args)
         {
+            Console.Write("Здравствуй мир!!!  ");
+            Console.WriteLine("Здравствуй Страна!!!");
+
+            Console.ReadKey();
         }
     }
 }
