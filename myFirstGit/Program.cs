@@ -12,7 +12,8 @@ namespace myFirstGit
         {
             Console.Write("Здравствуй мир!!!  ");
             Console.WriteLine("Здравствуй Страна!!!");
-
+            Console.Write("Hello Word!!!  ");
+            Console.WriteLine("Hello Russia!!!");
             Console.ReadKey();
         }
     }
